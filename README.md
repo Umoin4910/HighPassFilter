@@ -41,7 +41,7 @@ AC Analysis is performed using the command (`.ac dec 10 10 1gig`).
 
 From the transfer function graph above (Note: Vout/Vin is not plotted as Vin is already set to 1 as AC1), the cutoff frequency (f_c) is obtained as 1.5 kHz.
 #
-If you have any questions or need further clarification, don't hesitate to contact the me. 
+If you have any questions or need further clarification, don't hesitate to contact me. 
 Keep Learning Keep Hustling! 
 
 
